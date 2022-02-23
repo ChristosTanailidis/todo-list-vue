@@ -1,0 +1,22 @@
+{
+  "todoItems": [
+    {
+      "id": "T726",
+      "title": "Να κάνω τα dasdgj",
+      "description": "<li>Μακαρονια <li>Σπανακι <li>Κοκα κολα <li> νερα",
+      "isComplete": false
+    },
+    {
+      "id": "T542",
+      "title": "Να κλεισω εισιτηρια",
+      "description": "https://gr.skyscanner.com/",
+      "isComplete": false
+    },
+    {
+      "id": "T916",
+      "title": "fsdfsdfdasdas",
+      "description": "sdfsdfdasdasdasd",
+      "isComplete": false
+    }
+  ]
+}
